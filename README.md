@@ -13,6 +13,7 @@
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/-Styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Twin.macro](https://img.shields.io/badge/-Twin.macro-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
 
 ## Databases 🔐
 
